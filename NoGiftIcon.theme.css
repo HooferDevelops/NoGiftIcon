@@ -1,0 +1,7 @@
+/*//META{"name":"No Gift Icon","description":"Hides the gift icon in the message box","author":"Hoofer#0001 | https://twitter.com/leHoofer","version":"1.0","website":"https://iman.engineer","source":"https://raw.githubusercontent.com/HooferDevelops/BackdropOpacity/master/BackdropOpacity.theme.css"}*//**/
+
+.buttonWrapper-1ZmCpA[aria-label="Send a gift"]{
+    display: none;
+}
+
+
